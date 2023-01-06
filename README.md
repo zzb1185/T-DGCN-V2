@@ -1,5 +1,8 @@
 This is a TensorFlow implementation of A Deep Learning Model of Coalbed Methane Production Prediction Considering Time, Space, and Geological Features.
 
+It is still under review, so the code is tentative.
+
+
 # The manuscript
 #### A Deep Learning Model of Coalbed Methane Production Prediction Considering Time, Space, and Geological Features
 
