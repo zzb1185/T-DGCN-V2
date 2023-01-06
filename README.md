@@ -2,6 +2,7 @@ This is a TensorFlow implementation of A Deep Learning Model of Coalbed Methane 
 
 It is still under review, so the code is tentative.
 
+新年快乐！ Happy New Year！
 
 # The manuscript
 #### A Deep Learning Model of Coalbed Methane Production Prediction Considering Time, Space, and Geological Features
