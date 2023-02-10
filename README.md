@@ -4,6 +4,19 @@ It is still under review, so the code is tentative.
 
 新年快乐！ Happy New Year！
 
+The paper was finally accepted, which was a very painful, bitter and dark process.
+
+Thank the world, thank Wenquxing, thank alprazolam tablets, and thank Oncomelanone hydrochloride tablets.
+
+Thank myself.
+
+论文终于被接收了，这是一个无比煎熬、苦涩、晦暗的过程。
+感谢全世界，感谢文曲星，感谢阿普唑仑片，感谢盐酸钉螺环酮片。
+感谢我自己。
+
+祝大家二月二理发不排队！
+
+
 # The manuscript
 #### A Deep Learning Model of Coalbed Methane Production Prediction Considering Time, Space, and Geological Features
 
