@@ -8,7 +8,7 @@ This is a TensorFlow implementation of A Deep Learning Model of Coalbed Methane 
         论文终于被接收了，这是一个无比煎熬、苦涩、晦暗的过程。
         感谢全世界，感谢文曲星，感谢阿普唑仑片，感谢盐酸钉螺环酮片。
         感谢教授们与所有合著者的支持。
-        感谢吉普赛hxdm。
+        WoBuXiangBiYe
 
 
 # The manuscript
